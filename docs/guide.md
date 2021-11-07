@@ -130,11 +130,11 @@ export default {
 代码：
 
     ::: tip 提示
-    this is a tip
+    npm run deploy
     :::
 
     ::: warning 注意
-    this is a tip
+    npm run dev
     :::
 
     ::: danger 警告
