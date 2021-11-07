@@ -1,0 +1,21 @@
+{
+  "name": "vuepressBlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev docs--temp .temp",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.4"
+  },
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.3"
+  }
+}
